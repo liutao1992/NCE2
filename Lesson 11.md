@@ -46,6 +46,38 @@ However, Tony then asked Kevin to pay for his dinner in return.
 Indeed(确实), Tony must be penny wise and pound foolish.
 
 
+### 第二次翻译 2023-09-16 (2023-09-17/2023-09-19/2023-09-22/2023-09-30)
+
+My cousin Kevin had a friend called Tony. This guy likes sponging on others. 
+
+Tony used to work for a lawyer’s office several years ago and is now working at a bank.
+
+Even though Tony enrns a handsome salary（gets a good salary）, he frequently borrows money from his friends.
+
+
+It's ok to borrow money, but do you know why my cousin hates Tony ?
+
+Because he never pays back the money he owes his friends.
+
+One day, Kevin was having dinner at a very nice restaurant and guess who he met ?
+
+Yes , he met Tony. Tony saw my cousin and walked to him and sat at the same table with Kevin.
+
+I think Kevin must have been very anxious, because Tony had never borrowed any money from him.
+
+So Kevin decided to make the frist move.
+
+Instead of waiting for Tony to borrow money from him, Kevin asked Tony to lend him 20 pounds.
+
+In this way, Kevin thought he was telling Tony he didn’t have any money.
+
+Surprisingly, Tony accepted Kevin’s request right away.
+
+However, Tony then asked Kevin to pay for his dinner in return.
+
+Indeed(确实), Tony must be penny wise and pound foolish.
+
+
 
 
 
