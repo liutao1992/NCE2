@@ -64,6 +64,9 @@ keep our fingers crossed for him
 我想告知大家，在他出发前我们将会做哪些事。
 And for your information, the following is what we plan to do before his departure.
 
+众所周知，虽然这艘船很小，但是它已经多次横渡大西洋。
+As we know, even though the boat is small, it has already sailed across the Atlantic several times.
+
 他将航行两个月，并且争夺比赛的冠军。
 He is going to sail for two months and compete for the championship.
 
