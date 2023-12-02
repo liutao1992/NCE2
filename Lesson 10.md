@@ -57,12 +57,15 @@ and it was not loud enough for large performances.
 
 那位客人显然不知道这一点，所以她很用力敲击琴键，试图发出很大的声音。
 
-clearly, the visitor didn't know this, so she was trying to make big sound by striking the keys very hard.
+clearly, the visitor didn't know this, so she was trying to make louder sounds by striking the keys very hard.
 
+此外，这件久乐器造于几百年前。因此，肯定也是非常容易损坏的。
+
+那就是为什么现在这件乐器不允许碰了。她父亲的一个朋友正在维修。
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-
+### 第四次翻译
 你和一个朋友聊天，谈到一个乐器。 
 你想到你的朋友 Susan 家有 个古钢琴，但是最近被弄坏的故事。于是你说:
 My friend Susan once told me a story about an old musical instrument in her family.
@@ -85,7 +88,7 @@ So it must be a valuable instrument. And it is kept in the living room.
 一个客人用它来弹奏爵士乐，结果，两根琴弦断了。[x]
 A visitor was trying to play Jazz on it. as a result, two strings were broken.
 显然，在一个古钢琴上弹奏爵士乐是件很糟糕的做法。[x]
-obversily, It is not good idea to play Jazz on it.
+obversily, It is not a good idea to play Jazz on it.
 为什么呢? 因为古钢琴过去主要用作练习乐器，声音不大，并不适合用作大型演出。[x]
 那位客人显然不知道这一点，所以她很用力敲击琴键，试图发出很大的声音。[x]
 此外，这件久乐器造于几百年前。因此，肯定也是非常容易损坏的。[x]

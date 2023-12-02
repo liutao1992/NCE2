@@ -15,7 +15,7 @@ Alison 船长将于明天 8 点钟从 Portsmouth 港口出发。
 我们为 Alison 船长感到骄傲，也祝他好运!
 
 
-### 第一次翻译练习 2023-09-17 (2023-09-18/2023-09-19/2023-09-20/2023-09-23/2023-10-8)
+### 第一次翻译练习 2023-09-17 (2023-09-18/2023-09-19/2023-09-20/2023-09-23/2023-10-1)
 
 Hi, Ladies and gentleman, may I have an your attention please. 
 Today I have an important and exciting announcement to make.
@@ -76,7 +76,6 @@ He is going to sail for two months and compete for the championship.
 我们为 Alison 船长感到骄傲，也祝他好运!
 We are so proud of Captain Alison and we will keep our fingers crossed for him!
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 
 
 
