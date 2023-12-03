@@ -16,6 +16,11 @@ Susan 的祖父在多年以前买了这个乐器。他们家已经拥有这件�
 当 Susan 的爸爸知道这件贵重的乐器损坏了，他震惊了。[x]
 那就是为什么现在这件乐器不允许碰了。她父亲的一个朋友正在维修。[x]
 
+
+### 第四次翻译练习 
+
+
+
 ### 第三次翻译练习 (2023-09-17/2023-09-19/2023-09-22/2023-09-30)
 My friend Susan once told me a story about an old musical instrument in her family.
 

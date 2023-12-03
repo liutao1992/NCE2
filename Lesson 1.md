@@ -20,6 +20,7 @@ In the end, I couldn't bear it. I turned round again. "I can't hear a word." I s
 他们聊天的声音太大了，以至于作者连演员在说啥都听不见了。[?]
 作者非常生气，于是转过身去怒视这两个人。但是两个人完全无视他的目光警告(警告的英文是 warning)。 [?]
 最后，作者实在是忍无可忍，再次转身警告说:我一个字也听不见。但是，令人惊讶的是，年轻人回答说:这不关作者的事，那是一个私人的谈话。[?]
+
 (注意这句话在转述时要用过去时，因为不是重复原话)
 
 ### 翻译
@@ -36,7 +37,7 @@ The play was very/pretty interseting and attractive. But the writer just could n
 
 Because a young man and young woman were talking very loudly behind him. 
 
-Their conversation was too loud and the writer just could not hear the actors.
+Their conversation was too loud and the writer just could not hear the actors. [!!]
 
 The writer became very angry, so he turned round and looked at the two people angrily. 
 
@@ -51,6 +52,7 @@ Finally, the writer could not stand it any more and he turned around again and s
 He turned around again and said, I can't hear a word. but the young man replyed, this was none of writer's business. This was a private conversation. [x]
 
 But surprisingly, the young man answered that it was none of the writer's business because that was a private conversation.
+
 
 
 

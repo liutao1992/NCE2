@@ -1,7 +1,7 @@
-### 原文【转述练习】中英文对照
-
-转述场景:在英语角上，你碰到了一个老外，你们聊起语言学习的趣事。你想到你的一 个英国朋友 Oliver, 他曾经在法国的一次有趣经历。于是你聊起了 Oliver 的故事。
-
+### 故事转述
+转述场景:
+在英语角上，你碰到了一个老外，你们聊起语言学习的趣事。
+你想到你的一 个英国朋友 Oliver, 他曾经在法国的一次有趣经历。于是你聊起了 Oliver 的故事。
 我的一个英国朋友给我讲过他的一个有趣经历。
 
 去年，他在法国南部驾车旅行。
@@ -75,14 +75,6 @@ They had nearly arrived the destination, when the young man unexpectedly said, v
 
 > 应该是 arrived at
 
-### 注意点
-
-这个年轻人刚一上车，Oliver 就用法语跟他打招呼，而这个年轻人同样用法语回答。
-As soon as the man had got into the car, Oliver greeted him in Franch and the young man replied him in the same language. 【应该是reply to him，而不是 reply him】
-
-As soon as the he had hopped in the car, Oliver greeted him in French and the young man replied in the same language.
-
-except for
 
 
 
